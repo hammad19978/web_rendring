@@ -1,7 +1,9 @@
-def greet_user(name):
+def hello():
+    print("hi")
 
-    
-    print(f"Hello, {name}!")
-    
-greet_user("Alice")
 
+def bye():
+    print("bye")
+
+
+print(hello())
