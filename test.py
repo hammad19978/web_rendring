@@ -4,6 +4,6 @@ def greet_user(name):
     if name:
         print("Name is provided.")
     
-    print("End of function.")  # This should be outside the if block
+    print("End of function.")
 
 greet_user("Alice")
